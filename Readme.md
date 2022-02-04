@@ -26,5 +26,5 @@ Tech blog is an application created for multiple users to post and comment about
 * mysql2
 
 ## Application Link
-https://quiet-refuge-32276.herokuapp.com/
+https://mighty-garden-10876.herokuapp.com/
 
